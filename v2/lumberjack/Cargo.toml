@@ -1,0 +1,16 @@
+[package]
+name = "lumberjack"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ax_macros = "0.1.0"
+image = "0.25.2"
+imageproc = "0.25.0"
+opencv = "0.92.2"
+rdev = "0.5.3"
+serde = "1.0.205"
+serde_json = "1.0.122"
+xcap = "0.0.10"
